@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bdbf35d-5455-4b68-85a1-797aade8b316" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/AnonymousConstructor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/AnonymousConstructor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/AnonymousConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/AnonymousConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/BigEgg$Yolk.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/BigEgg$Yolk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/BigEgg.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/BigEgg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Callbacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Callbacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Callee1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Callee1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Callee2$Closure.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Callee2$Closure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Callee2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Callee2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Caller.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Caller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/ClassInInterface$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/ClassInInterface$Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/ClassInInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/ClassInInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Contents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Destination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/DotNew$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/DotNew$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/DotNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/DotNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/DotThis$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/DotThis$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/DotThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/DotThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Egg$Yolk.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Egg$Yolk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Egg.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Egg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Factories.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Factories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Implementation1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Implementation1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Implementation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Implementation1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Implementation2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Implementation2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Implementation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Implementation2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Incrementable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Incrementable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/InheritInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/InheritInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/LocalInnerClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/LocalInnerClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/LocalInnerClass$1LocalCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/LocalInnerClass$1LocalCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/LocalInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/LocalInnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/MNA$A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/MNA$A$B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/MNA$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/MNA$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/MNA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/MNA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/MultiNestingAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/MultiNestingAccess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/MyIncrement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/MyIncrement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel1$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel1$Contents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel1$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel1$Destination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel10$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel10$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel11$ParcelContents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel11$ParcelContents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel11$ParcelDestination$AnotherLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel11$ParcelDestination$AnotherLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel11$ParcelDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel11$ParcelDestination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel2$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel2$Contents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel2$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel2$Destination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel3$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel3$Contents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel3$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel3$Destination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel4$PContents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel4$PContents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel4$PDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel4$PDestination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel5$1PDestination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel5$1PDestination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel6$1TrackingSlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel6$1TrackingSlip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel7$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel7$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel7B$MyContents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel7B$MyContents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel7B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel7B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel8$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel8$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel9$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel9$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Parcel9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Selector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Sequence$SequenceSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Sequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/ServiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/ServiceFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/TestBed$Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/TestBed$Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/TestBed.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/TestBed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/TestParcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/TestParcel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/Warpping.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/Warpping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/WithInner$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/WithInner$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit10/WithInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit10/WithInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/AdapterMethodIdiom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/AdapterMethodIdiom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/AddingGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/AddingGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/ApplesAndOrangesWithGenerics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/ApplesAndOrangesWithGenerics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/ApplesAndOrangesWithoutGenerics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/ApplesAndOrangesWithoutGenerics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/AsListInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/AsListInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Braeburn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Braeburn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Cala.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Cala.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/CrossContainerIteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/CrossContainerIteration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Crusty.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Crusty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Fuji.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Fuji.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/GenericsAndUpcasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/GenericsAndUpcasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/GrannySmith.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/GrannySmith.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Heavy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Heavy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/IterableClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/IterableClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/IterableClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/IterableClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Light.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/LinkedListFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/LinkedListFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/ListInteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/ListInteration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/MultiIterableClass$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/MultiIterableClass$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/MultiIterableClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/MultiIterableClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/MultiIterableClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/MultiIterableClass$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/MultiIterableClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/MultiIterableClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Power.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/PrintingContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/PrintingContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/PriorityQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/PriorityQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/QueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/QueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/ReversibleArrayList$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/ReversibleArrayList$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/ReversibleArrayList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/ReversibleArrayList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/ReversibleArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/ReversibleArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/SetOfInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/SetOfInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/SetOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/SetOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/SimpleCollectionn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/SimpleCollectionn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/SimpleIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/SimpleIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Slush.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Slush.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Snow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Snow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/SortedSetInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/SortedSetInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/Statistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Cymric.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Cymric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/EgyptianMau.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/EgyptianMau.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Hamster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Individual.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Individual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Manx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Manx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Mutt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Mutt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Pug.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Pug.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Rat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Rat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Rodent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit11/pets/Rodent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Annoyance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Annoyance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/BaseballException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/BaseballException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Cleanup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Cleanup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/CleanupIdiom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/CleanupIdiom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/ConstructionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/ConstructionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/ExceptionMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/ExceptionMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/ExtraFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/ExtraFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/FinallyWorks.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/FinallyWorks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Foul.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Foul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/FullConstructors.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/FullConstructors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/HoHumException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/HoHumException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/InheritingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/InheritingExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Inning.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Inning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/InputFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/InputFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/LoggingException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/LoggingException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/LoggingException2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/LoggingException2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/LoggingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/LoggingExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/LostMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/LostMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/MultipleReturns.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/MultipleReturns.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/MyException2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/MyException2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/NeedsCleanup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/NeedsCleanup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/NeedsCleanup2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/NeedsCleanup2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/NeverCaught.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/NeverCaught.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/OneException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/OneException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/PopFoul.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/PopFoul.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/RainedOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/RainedOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/RethrowNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/RethrowNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Rethrowing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Rethrowing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/SimpleException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/SimpleException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Sneeze.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Sneeze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/SomeOtherException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/SomeOtherException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Storm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Storm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/StormException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/StormException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/StormyInning.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/StormyInning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/Strike.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/Strike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/ThreeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/ThreeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/TurnOffChecking.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/TurnOffChecking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/TwoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/TwoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/VeryImportantException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/VeryImportantException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/WarpCheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/WarpCheckedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit12/WhoCalled.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit12/WhoCalled.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/BetterRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/BetterRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/DatabaseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/DatabaseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Finding.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Finding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Groups.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Groups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Immutable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Immutable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/InfiniteRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/InfiniteRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/ReFlags.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/ReFlags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Receipt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Receipt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/ReolaceStringTokenizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/ReolaceStringTokenizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Replacing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Replacing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Resetting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Resetting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Rudolph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Rudolph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/SCannerDelimiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/SCannerDelimiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/SimpleFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/SimpleFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/SimpleRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/SimpleRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Splitting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Splitting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/StartEnd$Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/StartEnd$Display.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/StartEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/StartEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/TestRegularExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/TestRegularExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/Turtle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/Turtle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit13/UsingStringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit13/UsingStringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/AirFilter$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/AirFilter$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/AirFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/AirFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Belt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Belt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/CabinAirFilter$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/CabinAirFilter$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/CabinAirFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/CabinAirFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Candy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Candy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/ClassCasts.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/ClassCasts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/ClassInitialzation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/ClassInitialzation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Cookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Cookie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/CountedInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/CountedInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Derived.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/DynamicProxyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/DynamicProxyHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/FamilyVsExactType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/FamilyVsExactType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/FanBelt$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/FanBelt$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/FanBelt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/FanBelt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/FancyToy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/FancyToy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/FilledList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/FilledList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/ForNameCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/ForNameCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/FuelFilter$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/FuelFilter$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/FuelFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/FuelFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/GeneratorBelt$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/GeneratorBelt$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/GeneratorBelt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/GeneratorBelt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/GenericToyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/GenericToyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Gum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Gum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/HasBatteries.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/HasBatteries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/HiddenC.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/HiddenC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/HiddenImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/HiddenImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Implementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Implementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Initable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Initable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Initable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Initable2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Initable3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Initable3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Interface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/InterfaceViolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/InterfaceViolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/LiteralPetCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/LiteralPetCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/MethodSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/MethodSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Null.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Null.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/NullRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/NullRobot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/NullRobotProxyHandler$NRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/NullRobotProxyHandler$NRobot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/NullRobotProxyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/NullRobotProxyHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/OilFilter$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/OilFilter$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/OilFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/OilFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Part.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Part.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Person$NullPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Person$NullPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount$PetCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount$PetCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount3$PetCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount3$PetCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCount4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PetCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Pets.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Pets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PowerSteeringBelt$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PowerSteeringBelt$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/PowerSteeringBelt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/PowerSteeringBelt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/RealObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/RealObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/RegisteredFactories.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/RegisteredFactories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Robot$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Robot$Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SelectingMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SelectingMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Shapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Shapes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Shoots.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Shoots.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/ShowMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/ShowMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SimpleDynamicProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SimpleDynamicProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SimpleProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SimpleProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SimpleProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SimpleProxyDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SnowRemovalRobot$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SnowRemovalRobot$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SnowRemovalRobot$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SnowRemovalRobot$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SnowRemovalRobot$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SnowRemovalRobot$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SnowRemovalRobot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SnowRemovalRobot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SomeMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SomeMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Staff.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Staff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/SweetShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/SweetShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Toy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Toy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/ToyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/ToyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/TypeCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/TypeCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit14/Waterproff.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit14/Waterproff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit2/DataOnly.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit2/DataOnly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/AutoInc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/AutoInc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/EqualsMethod2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/EqualsMethod2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Equivalence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Equivalence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/EuqalsMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/EuqalsMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Exponents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Exponents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/LabeledFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/LabeledFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Letter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Letter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Literals.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Literals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Overflow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Overflow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/PassObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/PassObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/RoundingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/RoundingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/ShortCircuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/ShortCircuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/StringOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/StringOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Tank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/TernaryIfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/TernaryIfElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit3/Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit3/Value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Bowl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Bowl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Burrito.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Burrito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Cup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Cup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Cupboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Cupboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Cups.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Cups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/EnumOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/EnumOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/ExplicitStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/ExplicitStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Flower.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Flower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/InitialValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/InitialValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Mug.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Mug.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Mugs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Mugs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/OptionalTrailingArguments.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/OptionalTrailingArguments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/OrderOfInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/OrderOfInitialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/PassingThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/PassingThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Peeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Peeler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/SimpleEnumUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/SimpleEnumUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Spiciness.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Spiciness.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/StaticInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/StaticInitialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/TerminationCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/TerminationCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/VarArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/VarArgs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/VarArgsNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/VarArgsNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/VarargType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/VarargType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit5/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit5/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Composing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Composing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Factories.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Factories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/FieldAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/FieldAccess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Implementation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Implementation1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Implementation1Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Implementation1Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Implementation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Implementation2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Implementation2Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Implementation2Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/MoreUseful.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/MoreUseful.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/RTTI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/RTTI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/ReferenceCounting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/ReferenceCounting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/ServiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/ServiceFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Shared.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Shared.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Sub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Super.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit8/Useful.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit8/Useful.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BasicBounds.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="806">
+              <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+              <folding>
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataOnly.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit2/DataOnly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="New.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/New.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thinkinjavacode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjavacode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjavacode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjavacode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjavacode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjavacode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dodi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjavacode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjavacode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dodi" type="462c0819:PsiDirectoryNode" />
+              <item name="unit2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjavacode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjavacode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dodi" type="462c0819:PsiDirectoryNode" />
+              <item name="unit15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkinjavacode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkinjavacode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dodi" type="462c0819:PsiDirectoryNode" />
+              <item name="unit15" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicBounds.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DataOnly">
+    <configuration name="DataOnly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodi.unit2.DataOnly" />
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dodi.unit2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.DataOnly" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataOnly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bdbf35d-5455-4b68-85a1-797aade8b316" name="Default" comment="" />
+      <created>1532425490739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532425490739</updated>
+      <workItem from="1532425496288" duration="906000" />
+      <workItem from="1532485149232" duration="2864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3770000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32978722" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/New.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit2/DataOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/New.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit2/DataOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ThinkingInJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
