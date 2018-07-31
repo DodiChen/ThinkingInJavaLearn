@@ -52,9 +52,38 @@ class Solid<T extends Dimension & HasColor & Weight>{
 	Solid(T item){
 		this.item = item;
 	}
-	
+	java.awt.Color color(){
+		return item.getColor();
+	}
+	int getX(){
+		return item.x;
+	}
+	int getY() {
+		return item.y;
+	}
+	int getZ(){
+		return item.z;
+	}
+	int weight(){
+		return item.weight();
+	}
+}
+
+class Bounded extends Dimension implements HasColor, Weight{
+	public java.awt.Color getColor(){
+		return null;
+	}
+	public int weight(){
+		return 0;
+	}
 }
 
 public class BasicBounds {
+	public static void main(String[] args){
+		Solid<Bounded> solid = new Solid<Bounded>(new Bounded());
+		solid.color();
+		solid.getY();
+		solid.weight();
+	}
 
 }
