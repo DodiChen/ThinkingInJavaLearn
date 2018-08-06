@@ -1,48 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/dodi/unit16/MultiDimWrapperArray.java" line="13" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/dodi/unit16/RandomGenerator.java" line="32" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0bdbf35d-5455-4b68-85a1-797aade8b316" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/BasicHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/ByteSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/CRGWithBasicHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/CaptureConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/CheckedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/ClassCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/ComparablePet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/CompilerIntelligence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/CovariantArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/CovariantReturnTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/CuriouslyRecuringGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Decoration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/EpicBattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/GenericCast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/GenericReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/GenericWriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/GenericsAndCovariance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/GenericsAndReturnTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/InheritBounds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/ListOfInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Mixins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/NeedCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/NotSelfBounded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/OrdinaryArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/PlainGenericInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/SelfBounding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/SelfBoundingAndCovariantArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/SelfBoundingMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/SuperTypeWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/ThrowGenericException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/UnboundedWildcard2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/UnboundedWildcards1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Unconstrained.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/UseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/UseList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Wildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Apply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/DogsAndRobots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/DynamicProxyMixin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Fill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Fill2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/LatentReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Performs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/SimpleDogsAndRobots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit15/SimpleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ArrayOfGenericType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ArrayOfGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ArrayOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ArraysSearching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/AssemblingMultidimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/AutoboxingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/CompType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/CompareArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ContainerComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ConverTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/CopyingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/CountingGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/FillingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/GeneratorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/MultiDimWrapperArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/MultidimensionalObjectArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/MultidimensionalPrimitiveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ParameterizedArrayType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/PrimitiveConversionDemonstration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/RaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/RandomGeneratorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit16/ThreeDWithNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit17/CollectionDAtaGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit17/CollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit17/CollectionDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit17/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit17/FillingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit17/MapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit17/MapDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dodi/unit17/Pair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/A2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/A2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/B2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/B2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Basic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Basic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Basic1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Basic1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/BasicBounds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/BasicBounds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/BasicHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/BasicHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/BasicImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/BasicImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/BasicOther.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/BasicOther.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Bounded.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Bounded.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/ByteSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/ByteSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/C2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/C2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/CRGWithBasicHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/CRGWithBasicHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/CanineHero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/CanineHero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/CaptureConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/CaptureConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/CheckedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/CheckedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/ClassCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/ClassCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Colored.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Colored.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Colored2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Colored2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/ColoredDimension.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/ColoredDimension.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/ColoredDimension2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/ColoredDimension2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/ComparablePet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/ComparablePet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/CompilerIntelligence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/CompilerIntelligence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/CovariantArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/CovariantArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/CovariantReturnTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/CovariantReturnTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/CuriouslyRecuringGeneric.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/CuriouslyRecuringGeneric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/D2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/D2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Decoration.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Decoration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Decorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Decorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Derived.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/DerivedGS.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/DerivedGS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/DerivedGetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/DerivedGetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/DerivedSetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/DerivedSetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Dimension.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Dimension.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/DogBoy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/DogBoy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/E2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/E2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/EpicBattle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/EpicBattle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/F.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/F.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Failure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Failure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Failure2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Failure2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/FixedSizeStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/FixedSizeStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Gecko.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Gecko.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericCast.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericCast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericGetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericGetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericReading$CovariantReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericReading$CovariantReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericReading$Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericReading$Reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericReading.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericReading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericSetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericSetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericWriting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericWriting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericsAndCovariance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericsAndCovariance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericsAndReturnTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/GenericsAndReturnTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Getter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Getter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Hamster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/HasColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/HasColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/HoldItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/HoldItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Holder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Holder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/InheritBounds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/InheritBounds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Jonathan.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Jonathan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/ListOfInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/ListOfInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Mixin.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Mixin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Mixins.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Mixins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/NeedCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/NeedCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/NotSelfBounded.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/NotSelfBounded.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/OrdinaryArguments.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/OrdinaryArguments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/OrdinaryGetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/OrdinaryGetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/OrdinarySetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/OrdinarySetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Other.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Other.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/PlainGenericInheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/PlainGenericInheritance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/ProcessRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/ProcessRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Processor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Processor1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Processor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Processor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBoundSetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBoundSetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBounded.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBounded.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBounding.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBounding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBoundingAndCovariantArguments.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBoundingAndCovariantArguments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBoundingMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SelfBoundingMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SerialNumbered.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SerialNumbered.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SerialNumbered1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SerialNumbered1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SerialNumberedImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SerialNumberedImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Setter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Setter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Solid.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Solid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Solid2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Solid2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Subtype.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Subtype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperHearSmell.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperHearSmell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperHearing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperHearing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperHero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperHero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperPower.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperPower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperSleuth.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperSleuth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperSmell.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperSmell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperTypeWildcards.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/SuperTypeWildcards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/ThrowGenericException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/ThrowGenericException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/TimeStamped.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/TimeStamped.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/TimeStamped1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/TimeStamped1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/TimeStampedImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/TimeStampedImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/UnboundedWildcard2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/UnboundedWildcard2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/UnboundedWildcards1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/UnboundedWildcards1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Unconstrained.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Unconstrained.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/UseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/UseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/UseList2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/UseList2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Weight.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Weight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/Wildcards.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/Wildcards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dodi/unit15/XRayVision.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dodi/unit15/XRayVision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dodi/unit15/Mixins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dodi/unit15/Mixins.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,158 +175,129 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/thinkinjavacode$IceCream.ic" NAME="IceCream Coverage Results" MODIFIED="1533198058817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dodi.unit16.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SelfBounding.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/SelfBounding.java">
+      <file leaf-file-name="CollectionData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/CollectionData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="175">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CovariantReturnTypes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CovariantReturnTypes.java">
+      <file leaf-file-name="CollectionDataTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/CollectionDataTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="332">
+              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
               <folding>
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#526#534#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenericsAndReturnTypes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericsAndReturnTypes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrdinaryArguments.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/OrdinaryArguments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="e#71#72#0" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelfBoundingAndCovariantArguments.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/SelfBoundingAndCovariantArguments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlainGenericInheritance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/PlainGenericInheritance.java">
+      <file leaf-file-name="CollectionDAtaGeneration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/CollectionDAtaGeneration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-              <folding>
-                <element signature="e#69#70#0" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CheckedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="19" column="83" lean-forward="true" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThrowGenericException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/ThrowGenericException.java">
+      <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/Pair.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+            <state relative-caret-position="275">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/MapData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1458#1476#0" expanded="true" />
-                <element signature="e#1802#1821#0" expanded="true" />
+                <element signature="e#1470#1471#0" expanded="true" />
+                <element signature="e#1497#1498#0" expanded="true" />
+                <element signature="e#1595#1596#0" expanded="true" />
+                <element signature="e#1636#1637#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mixins.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Mixins.java">
+      <file leaf-file-name="MapDataTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/MapDataTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="-7">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#1037#1038#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
-                <element signature="e#1136#1137#0" expanded="true" />
-                <element signature="e#1168#1169#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#816#817#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Decoration.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Decoration.java">
+      <file leaf-file-name="Countries.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/Countries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-              <folding>
-                <element signature="e#97#98#0" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-                <element signature="e#967#968#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="668">
+              <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedHashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="163" column="15" selection-start-line="163" selection-start-column="15" selection-end-line="163" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2334">
+              <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedHashSet.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedHashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="162" column="63" lean-forward="true" selection-start-line="162" selection-start-column="63" selection-end-line="162" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -220,50 +311,73 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Basic1</find>
+      <find>Mixin</find>
+      <find>?</find>
+      <find>arraycopy</find>
+      <find>equals</find>
+      <find>put(</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/InheritBounds.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/EpicBattle.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/CovariantArrays.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/GenericsAndCovariance.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/CompilerIntelligence.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Holder.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/SuperTypeWildcards.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/GenericWriting.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/GenericReading.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/UnboundedWildcards1.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/UnboundedWildcard2.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Wildcards.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/CaptureConversion.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/ListOfInt.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/ByteSet.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/GenericCast.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/NeedCasting.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/ClassCasting.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/UseList.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/UseList2.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/ComparablePet.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/CuriouslyRecuringGeneric.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/BasicHolder.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/CRGWithBasicHolder.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Unconstrained.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/SelfBounding.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/NotSelfBounded.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/SelfBoundingMethods.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/CovariantReturnTypes.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/GenericsAndReturnTypes.java" />
         <option value="$PROJECT_DIR$/src/com/dodi/unit15/OrdinaryArguments.java" />
         <option value="$PROJECT_DIR$/src/com/dodi/unit15/SelfBoundingAndCovariantArguments.java" />
         <option value="$PROJECT_DIR$/src/com/dodi/unit15/PlainGenericInheritance.java" />
         <option value="$PROJECT_DIR$/src/com/dodi/unit15/CheckedList.java" />
         <option value="$PROJECT_DIR$/src/com/dodi/unit15/ThrowGenericException.java" />
-        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Mixins.java" />
         <option value="$PROJECT_DIR$/src/com/dodi/unit15/Decoration.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/DynamicProxyMixin.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Mixins.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Performs.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/DogsAndRobots.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/SimpleDogsAndRobots.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/LatentReflection.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/SimpleQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Apply.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Fill.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Fill2.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit15/Functional.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ContainerComparison.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ArrayOptions.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/IceCream.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/MultidimensionalPrimitiveArray.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ThreeDWithNew.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/RaggedArray.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/MultidimensionalObjectArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/AutoboxingArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/MultiDimWrapperArray.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ParameterizedArrayType.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ArrayOfGenerics.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ArrayOfGenericType.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/FillingArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/CountingGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/GeneratorsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/RandomGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/RandomGeneratorsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ConverTo.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/PrimitiveConversionDemonstration.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/AssemblingMultidimensionalArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/CopyingArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/CompareArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/CompType.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ComparatorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit16/ArraysSearching.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit17/FillingLists.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit17/CollectionData.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit17/CollectionDataTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit17/CollectionDAtaGeneration.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit17/Pair.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit17/MapData.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit17/MapDataTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dodi/unit17/Countries.java" />
       </list>
     </option>
   </component>
@@ -290,6 +404,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,22 +430,20 @@
               <item name="thinkinjavacode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dodi" type="462c0819:PsiDirectoryNode" />
-              <item name="unit2" type="462c0819:PsiDirectoryNode" />
+              <item name="unit17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinkinjavacode" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinkinjavacode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dodi" type="462c0819:PsiDirectoryNode" />
-              <item name="unit15" type="462c0819:PsiDirectoryNode" />
+              <item name="unit17" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionDataTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,58 +466,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Decoration">
-    <configuration name="CheckedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodi.unit15.CheckedList" />
+  <component name="RunManager" selected="Application.MapDataTest">
+    <configuration name="CollectionDAtaGeneration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodi.unit17.CollectionDAtaGeneration" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dodi.unit15.*" />
+          <option name="PATTERN" value="com.dodi.unit17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Decoration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodi.unit15.Decoration" />
+    <configuration name="CollectionDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodi.unit17.CollectionDataTest" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dodi.unit15.*" />
+          <option name="PATTERN" value="com.dodi.unit17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Mixins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodi.unit15.Mixins" />
+    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodi.unit16.ComparatorTest" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dodi.unit15.*" />
+          <option name="PATTERN" value="com.dodi.unit16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PlainGenericInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodi.unit15.PlainGenericInheritance" />
+    <configuration name="FillingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodi.unit17.FillingLists" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dodi.unit15.*" />
+          <option name="PATTERN" value="com.dodi.unit17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThrowGenericException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodi.unit15.ThrowGenericException" />
+    <configuration name="MapDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodi.unit17.MapDataTest" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dodi.unit15.*" />
+          <option name="PATTERN" value="com.dodi.unit17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,19 +569,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.PlainGenericInheritance" />
-      <item itemvalue="Application.CheckedList" />
-      <item itemvalue="Application.ThrowGenericException" />
-      <item itemvalue="Application.Mixins" />
-      <item itemvalue="Application.Decoration" />
+      <item itemvalue="Application.ComparatorTest" />
+      <item itemvalue="Application.FillingLists" />
+      <item itemvalue="Application.CollectionDataTest" />
+      <item itemvalue="Application.CollectionDAtaGeneration" />
+      <item itemvalue="Application.MapDataTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Decoration" />
-        <item itemvalue="Application.Mixins" />
-        <item itemvalue="Application.ThrowGenericException" />
-        <item itemvalue="Application.CheckedList" />
-        <item itemvalue="Application.PlainGenericInheritance" />
+        <item itemvalue="Application.MapDataTest" />
+        <item itemvalue="Application.CollectionDAtaGeneration" />
+        <item itemvalue="Application.CollectionDataTest" />
+        <item itemvalue="Application.FillingLists" />
+        <item itemvalue="Application.ComparatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -483,20 +598,23 @@
       <workItem from="1532425496288" duration="906000" />
       <workItem from="1532485149232" duration="25036000" />
       <workItem from="1532748081700" duration="15766000" />
-      <workItem from="1533001131385" duration="17071000" />
+      <workItem from="1533001131385" duration="17677000" />
+      <workItem from="1533086317544" duration="20262000" />
+      <workItem from="1533174085125" duration="10406000" />
+      <workItem from="1533258078913" duration="14093000" />
+      <workItem from="1533519420278" duration="8839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58779000" />
+    <option name="totallyTimeSpent" value="112985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32977587" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32875264" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -504,11 +622,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895832" visible="true" weight="0.32875264" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895832" weight="0.32875264" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,6 +634,7 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49895832" weight="0.39852008" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3296875" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -557,472 +676,491 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dodi/unit15/DynamicProxyMixin.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dodi/unit15/DynamicProxyMixin.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dodi/unit15/DynamicProxyMixin.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dodi/unit15/DynamicProxyMixin.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dodi/unit15/DynamicProxyMixin.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dodi/unit15/DynamicProxyMixin.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dodi/unit16/IceCream.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dodi/unit16/IceCream.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/EpicBattle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Apply.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        <state relative-caret-position="1575">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CovariantArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Fill.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="950">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericWriting.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Mocha.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericsAndCovariance.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Latte.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CompilerIntelligence.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Fill2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="1375">
+          <caret line="63" column="82" selection-start-line="63" selection-start-column="82" selection-end-line="63" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4050">
+          <caret line="217" column="22" selection-start-line="217" selection-start-column="22" selection-end-line="217" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Functional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="149" column="53" selection-start-line="149" selection-start-column="53" selection-end-line="149" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ContainerComparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ArrayOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/IceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/MultidimensionalPrimitiveArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ThreeDWithNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/RaggedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/MultidimensionalObjectArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/AutoboxingArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/MultiDimWrapperArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ParameterizedArrayType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ArrayOfGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ArrayOfGenericType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Holder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/FillingArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/SuperTypeWildcards.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/GeneratorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/CountingGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1400">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/RandomGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1418#1419#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#1710#1711#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/RandomGeneratorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericReading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/New.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit2/DataOnly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/New.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit2/DataOnly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/BasicBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/InheritBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="49" column="68" selection-start-line="49" selection-start-column="68" selection-end-line="49" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/EpicBattle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericsAndCovariance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CompilerIntelligence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/SuperTypeWildcards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CovariantArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericWriting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericReading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/UnboundedWildcards1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/UnboundedWildcard2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Wildcards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Holder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CaptureConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/ListOfInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/ByteSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericCast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/NeedCasting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/ClassCasting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/UseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/UseList2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/ComparablePet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CuriouslyRecuringGeneric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CRGWithBasicHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/BasicHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Unconstrained.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/NotSelfBounded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/SelfBoundingMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/SelfBounding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/GenericsAndReturnTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/OrdinaryArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/SelfBoundingAndCovariantArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CovariantReturnTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/PlainGenericInheritance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/CheckedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="19" column="83" lean-forward="true" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/ThrowGenericException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1458#1476#0" expanded="true" />
-            <element signature="e#1802#1821#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Mixins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-            <element signature="e#1136#1137#0" expanded="true" />
-            <element signature="e#1168#1169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Decoration.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ConverTo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/PrimitiveConversionDemonstration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/AssemblingMultidimensionalArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11250">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/CopyingArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/CompareArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29750">
+          <caret line="1245" column="32" selection-start-line="1245" selection-start-column="32" selection-end-line="1245" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ComparableTimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7350">
+          <caret line="318" column="45" selection-start-line="318" selection-start-column="40" selection-end-line="318" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/CompType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="44" column="9" selection-start-line="41" selection-start-column="8" selection-end-line="44" selection-end-column="9" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit16/ArraysSearching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/FillingLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#362#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit15/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="162" column="63" lean-forward="true" selection-start-line="162" selection-start-column="63" selection-end-line="162" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/CollectionDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#526#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/CollectionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/CollectionDAtaGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="163" column="15" selection-start-line="163" selection-start-column="15" selection-end-line="163" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2334">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/MapData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1470#1471#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+            <element signature="e#1595#1596#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/MapDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodi/unit17/Countries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
         </state>
       </provider>
     </entry>

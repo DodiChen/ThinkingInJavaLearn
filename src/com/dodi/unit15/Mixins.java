@@ -29,7 +29,10 @@ class SerialNumberedImp implements SerialNumbered{
     }
 }
 
-interface Basic{}
+interface Basic{
+    public void set(String value);
+    public String get();
+}
 
 class BasicImp implements Basic{
     private String value;
